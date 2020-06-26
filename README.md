@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <style>
-        body {
-            background-color: #c9c8c7;
-        }
-    </style>
-    <title>科技集团的第一个网页</title>
+
     <link href="images/logo.ico" rel="shortcut icon">
 </head>
     
